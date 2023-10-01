@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Shivam Kumar</h1>
+<h3 align="center">Web Developer </h3>
 
 <p align="left"> <a href="https://twitter.com/shivambhagattt" target="blank"><img src="https://img.shields.io/twitter/follow/shivambhagattt?logo=twitter&style=for-the-badge" alt="shivambhagattt" /></a> </p>
 
