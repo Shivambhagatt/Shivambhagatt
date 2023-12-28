@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **Java Script**
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **Technology and Web-Development**
 - 📫 How to reach me: **shivamkr985@gmail.com**
 - 😄 Pronouns: He/Him
