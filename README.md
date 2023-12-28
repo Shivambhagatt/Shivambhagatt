@@ -1,9 +1,23 @@
-🔭 I’m currently working on ... 
-👯 I’m looking to collaborate on ...
-🤝 I’m looking for help with ... 
-🌱 I’m currently learning ... 
-💬 Ask me about ...
-⚡ Fun fact ... 
+### Hey, I'm Shivam!
+
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **Java Script**
+- 👯 I’m looking to collaborate on **Web Development**
+- 💬 Ask me about **Technology and Web-Development**
+- 📫 How to reach me: **shivamkr985@gmail.com**
+- 😄 Pronouns: He/Him
+
+## About Me
+Hello, Github!
+
+I'm Shivam Kumar, third year undergraduate student at Rungta College of Engineering and Technology, Bhilai currently pursuing BTech in Computer Science Engineering .
+
+Being Computer Science major, most of my learning has been through online courses, blogs, and books. I believe in the power of self- learning. My love for programming, logical reasoning, and a deep interest in technology fuel my enthusiasm in programming.
+
+I've learnt the fundamentals of C++ Programming Language, Java, Python Programming Language, Data Structures and Algorithms, Front-End Web Development, MYSQL, Tableau and some other software.
+
+I am constantly motivated to advance my knowledge and obtain experience that I can use in my career.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/shivambhagattt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/shivambhagattt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shivambhagatt) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x.com/shivamcodesigns) 
 
