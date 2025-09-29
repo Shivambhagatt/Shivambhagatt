@@ -1,6 +1,6 @@
 ### Hey, I'm Shivam!
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **AI-ML Projects**
 - 🌱 I’m currently learning **Java Script**
 - 👯 I’m looking to collaborate on **AI-ML Projects**
 - 💬 Ask me about **Technology and Web-Development**
